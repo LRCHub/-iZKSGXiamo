@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "シュガー feat. +α/あるふぁきゅん。",
+  "base_artist": "電撃マオウサウンドチーム",
+  "createdAt": "2026-03-23T23:07:43.730715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュガー",
+      "artist": "Fleshgod Apocalypse",
+      "has_synced": true,
+      "path": "select/01_シュガー_Fleshgod_Apocalypse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シュガー",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/02_シュガー_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シュガー(feat.ウィンター)",
+      "artist": "フロー・ライダー",
+      "has_synced": true,
+      "path": "select/03_シュガー(feat.ウィンター)_フロー・ライダー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シュガー・ラッシュ(Sugar Rush)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_シュガー・ラッシュ(Sugar_Rush)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シュレディンガー・シュガー (feat. 初音ミク)",
+      "artist": "ヤマギシコージ",
+      "has_synced": false,
+      "path": "select/05_シュレディンガー・シュガー_(feat._初音ミク)_ヤマギシコージ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シュガー＆シュガーレス",
+      "artist": "榎並清瀬 starring 沼倉愛美",
+      "has_synced": false,
+      "path": "select/06_シュガー&シュガーレス_榎並清瀬_starring_沼倉愛美.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シュガー・ボーイ",
+      "artist": "UNICORN",
+      "has_synced": true,
+      "path": "select/07_シュガー・ボーイ_UNICORN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュガー feat. +α/あるふぁきゅん。",
+      "artist": "電撃マオウサウンドチーム",
+      "has_synced": false,
+      "path": "select/pl_01_シュガー_feat._+α_あるふぁきゅん。_電撃マオウサウンドチーム.txt"
+    }
+  ]
+}
